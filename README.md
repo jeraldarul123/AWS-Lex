@@ -84,5 +84,3 @@ If you have any questions or want to discuss this project, feel free to reach ou
 [Email me](mailto:jeraldarul1862004@gmail.com)  
 
 ---
-
-Let me know if you need any changes!
